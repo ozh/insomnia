@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Insomnia
+Comment=Keeps the computer awake while the window is open
+Exec=sh -c '"$HOME/.local/bin/insomnia"'
+Icon=weather-clear
+Terminal=false
+Categories=Utility;
+StartupNotify=true
+StartupWMClass=insomnia
