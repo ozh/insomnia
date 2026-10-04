@@ -3,7 +3,10 @@
 > Keep your Linux computer awake, without forgetting about it.
 
 Tools like Caffeine hide in the system tray, where it's easy to forget they're
-running. Insomnia takes the opposite approach.
+running. Insomnia takes the opposite approach: its own window, taskbar entry, bright colors.
+
+<img width="373" height="297" alt="image" src="https://github.com/user-attachments/assets/21d00196-b509-4653-874d-7253aa6331c2" />
+
 
 ## Features
 
